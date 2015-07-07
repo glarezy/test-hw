@@ -1,0 +1,20 @@
+<?php
+return array(
+	'news' => '新闻中心',
+	'ptime' => '发布时间',
+	'title' => '新闻名称',
+	'subject' => '新闻简述',
+	'content' => '新闻说明',
+	'recommend' => '首页推荐',
+	'seo' => 'seo',
+	'ctime' => '创建时间',
+	'mtime' => '最后修改时间',
+	'btnList' => '新闻列表',
+	'btnCreate' => '创建新新闻',
+	'btnUpdate' => '编辑新闻',
+	'btnDel' => '删除新闻',
+	'manage' => '新闻管理',
+	'view' => '新闻详情',
+	'recommendTip' => '本新闻将出现在首页相关位置',
+	'type' => '所属新闻类别',
+);

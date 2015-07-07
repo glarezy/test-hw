@@ -1,0 +1,22 @@
+<?php
+return array(
+	'project' => '解决方案',
+	'ptime' => '发布时间',
+	'title' => '方案名称',
+	'subject' => '方案简述',
+	'content' => '方案说明',
+	'recommend' => '首页推荐',
+	'seo' => 'seo',
+	'ctime' => '创建时间',
+	'mtime' => '最后修改时间',
+	'btnList' => '方案列表',
+	'btnCreate' => '创建新方案',
+	'btnUpdate' => '编辑方案',
+	'btnDel' => '删除方案',
+	'manage' => '方案管理',
+	'view' => '方案详情',
+	'recommendTip' => '本方案将出现在首页相关位置',
+	'type' => '所属方案类别',
+	'uploadtip'=>'用在首页的大banner(推广图)的尺寸（宽*长）为942*310, 方案内容中的图片尺寸不限',
+	'oopstip' => '目前网站的方案频道只显示"%s"的第一条方案，其它类型的方案暂不显示，请管理员注意',
+);

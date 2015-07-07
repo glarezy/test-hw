@@ -1,0 +1,20 @@
+div.q {
+	position: absolute;
+	width: 108px;
+	height: 149px;
+	top:100px;
+	right:100px;
+}
+div.qbody {
+	text-align:left;
+	z-index: 100;
+	padding: 20px;
+}
+
+div.qbody textarea {
+	width: 400px;
+}
+
+div.qbody div.qrow {
+	padding-bottom: 15px;
+}

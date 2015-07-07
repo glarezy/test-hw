@@ -1,0 +1,2 @@
+<ul class="title"><li><?php echo H::m('title-icon.jpg',23,26);?></li><li><?php echo CHtml::encode(Yii::t('cooperation','title'));?></li></ul>
+<div style="clear:both;padding-top:20px;"><?php echo CHtml::encode(Yii::t('cooperation','finish'));?></div>

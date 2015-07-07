@@ -1,0 +1,23 @@
+<?php
+return array(
+	'download' => '资源中心',
+	'type' => '资源类别',
+	'title' => '标题',
+	'desp' => '描述',
+	'btnList' => '资源列表',
+	'btnCreate' => '创建新资源',
+	'btnUpdate' => '编辑资源',
+	'btnDel' => '删除资源',
+	'manage' => '资源管理',
+	'view' => '资源详情',
+	'pid' => '相关产品',
+	'uploadfile' => '上传资源文件',
+	'upload' => '上传资源',
+	'uploadTip' => '确定要上传新的资源文件来替换已经存在的文件?',
+	'bigpic' => '查看大图',
+	'sizeInfo' => '大小：',
+	'downloadFile' => '[ 点击此处下载 ]',
+	'selproduct' => '请选择产品型号',
+	'downloadimage' => '下载图片',
+	'searchtype' => '请选择资源类别',
+);

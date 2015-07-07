@@ -1,0 +1,22 @@
+<?php
+return array(
+	'project' => 'Solutions',
+	'ptime' => 'Publish Date',
+	'title' => 'Title',
+	'subject' => 'Subject',
+	'content' => 'Description',
+	'recommend' => 'Recommend',
+	'seo' => 'SEO',
+	'ctime' => 'Created Time',
+	'mtime' => 'Last Update Time',
+	'btnList' => 'List Solutions',
+	'btnCreate' => 'Create Solutions',
+	'btnUpdate' => 'Update Solutions',
+	'btnDel' => 'Delete Solutions',
+	'manage' => 'Manage Solutions',
+	'view' => 'View',
+	'recommendTip' => 'Show on home page',
+	'type' => 'Classification',
+	'uploadtip'=>'Ad Show size is 942*310 ( width*height )',
+	'oopstip' => 'Currently the site only shows "%s", other types of sub channel temporarily not displayed, Administrator Note',
+);

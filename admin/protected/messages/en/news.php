@@ -1,0 +1,21 @@
+<?php
+return array(
+	'news' => 'News',
+	'ptime' => 'Publish Date',
+	'title' => 'Title',
+	'subject' => 'Subject',
+	'content' => 'Description',
+	'recommend' => 'Recommend',
+	'seo' => 'SEO',
+	'ctime' => 'Created Time',
+	'mtime' => 'Last Update Time',
+	'btnList' => 'List News',
+	'btnCreate' => 'Create News',
+	'btnUpdate' => 'Update News',
+	'btnDel' => 'Delete News',
+	'manage' => 'Manage News',
+	'view' => 'View',
+	'recommendTip' => 'Show on home page',
+	'type' => 'Classification',
+	'uploadtip'=>'Ad Show size is 942*310 ( width*height ), main pic is 160*106',
+);

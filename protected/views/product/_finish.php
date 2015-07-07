@@ -1,0 +1,1 @@
+<div style="clear:both;padding-top:20px;"><?php echo CHtml::encode(Yii::t('buy','finish'));?></div>

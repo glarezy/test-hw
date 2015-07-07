@@ -1,0 +1,20 @@
+<?php
+return array(
+	'project' => 'Solutions',
+	'ptime' => 'Publish Date',
+	'title' => 'Title',
+	'subject' => 'Subject',
+	'content' => 'Description',
+	'recommend' => 'Recommend',
+	'seo' => 'SEO',
+	'ctime' => 'Created Time',
+	'mtime' => 'Last Update Time',
+	'btnList' => 'List Project',
+	'btnCreate' => 'Create Project',
+	'btnUpdate' => 'Update Project',
+	'btnDel' => 'Delete Project',
+	'manage' => 'Manage Projects',
+	'view' => 'View',
+	'recommendTip' => 'Show on home page',
+	'type' => 'Classification',
+);

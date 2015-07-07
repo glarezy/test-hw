@@ -1,0 +1,95 @@
+A { text-decoration: none}
+
+div.topbarBtnLine {
+	float: right;
+	margin-top: 5px;
+}
+
+span.topbarBtn {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 9pt;
+}
+
+span.topbarBtn a {
+	padding:0;
+	margin:0;
+}
+
+.parthidden {
+	display:none;
+}
+
+.btnSpan {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.uploadedText {
+	padding: 7px 0;
+}
+ul li{
+	list-style-type:none;
+}
+ul.imgPreview {
+	padding:0;
+	margin:0;
+}
+ul.imgPreview li {
+	float:left;
+	padding: 5px;
+}
+ul.imgIndexPreview {
+	padding:0;
+	margin:0;
+}
+ul.imgIndexPreview li {
+	float:right;
+	padding: 5px;
+}
+ul.nav {
+	padding:0;
+	margin:0;
+}
+ul.nav li {
+	float:left;
+	padding-right: 15px;
+}
+ul.picture {
+	padding:0;
+	margin-top:20px;
+	display:block;
+}
+ul.picture li {
+	float:left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+span.field {
+	text-align:right;
+	padding-right:10px;
+	width: 100px;
+	display:block;
+	float:left;
+}
+ul.dfield {
+	border:0;
+	padding: 5px;
+	margin:0;
+}
+a.btn {
+	padding-left:5px;
+	padding-right:5px;
+}
+
+ul.uploaded {
+	padding:0;
+	margin-top:0;
+	display:block;
+	clear:both;
+}
+ul.uploaded li {
+	float:left;
+	margin-right: 10px;
+	margin-bottom: 15px;
+}
